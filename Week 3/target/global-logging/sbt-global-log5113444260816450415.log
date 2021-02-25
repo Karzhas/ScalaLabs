@@ -1,0 +1,8 @@
+[debug] > Exec(scala-version, None, None)
+[error] Not a valid command: scala-version (similar: session)
+[error] Not a valid project ID: scala-version
+[error] Expected ':'
+[error] Not a valid key: scala-version (similar: scalaVersion, scalaBinaryVersion, crossScalaVersions)
+[error] scala-version
+[error]              ^
+[debug] > Exec(idea-shell, None, None)
