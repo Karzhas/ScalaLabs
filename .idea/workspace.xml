@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b289ccb-6237-4664-a56c-0355a79adf4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$263b4fa3ffbb0e3f377a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$263b4fa3ffbb0e3f377a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$263b4fa3ffbb0e3f377a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$667de9c41bdecd70aef9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$667de9c41bdecd70aef9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$667de9c41bdecd70aef9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$c297b33b88f027f3119d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$c297b33b88f027f3119d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$c297b33b88f027f3119d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$f9a11ff9c24160736896$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$f9a11ff9c24160736896.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/config-classes/$f9a11ff9c24160736896.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/target/scala-2.13/classes/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/target/scala-2.13/classes/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pc6cIyyOHnOfs19ZoYR6l3cP6P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b289ccb-6237-4664-a56c-0355a79adf4e" name="Default Changelist" comment="" />
+      <created>1615470112481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615470112481</updated>
+    </task>
+    <servers />
+  </component>
+</project>
