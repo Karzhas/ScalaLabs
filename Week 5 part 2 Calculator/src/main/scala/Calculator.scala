@@ -1,6 +1,8 @@
 import akka.actor.typed.{ActorRef, Behavior}
 import akka.actor.typed.scaladsl.{AbstractBehavior, ActorContext, Behaviors}
 
+import scala.math.pow
+
 case class CalculationData(numbers: Array[Int], commands: Array[String])
 case class Request(calcData : CalculationData, replyTo: ActorRef[Msg])
 object Calculator {
@@ -22,6 +24,7 @@ class Calculator(context: ActorContext[Request]) extends AbstractBehavior[Reques
             case "-" => result -= numbers(i)
             case "*" => result *= numbers(i)
             case "/" => result /= numbers(i)
+            case "^" => result = pow(result, numbers(i)).toInt
           }
           commIterator += 1
         }

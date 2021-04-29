@@ -13,7 +13,7 @@ object Main{
     val brain = ActorSystem(Brain(), "Brain")
 
     brain ! InputFromUser(input)
-
+  // 8 ^ 2
   }
 }
 
