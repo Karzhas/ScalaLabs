@@ -1,8 +1,13 @@
+enablePlugins(JavaAppPackaging, AshScriptPlugin)
+
 name := "Week 9"
 
 version := "0.1"
 
 scalaVersion := "2.12.6"
+
+dockerBaseImage := "openjdk:8-jre-alpine"
+packageName in Docker := "akkahttp-quickstart"
 
 val akkaVersion = "2.6.8"
 val akkaHttpVersion = "10.2.4"
